@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import Pizza from './Pizza.jsx';
+import Pizza from './Pizza2';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<Pizza />, document.getElementById('root'));
