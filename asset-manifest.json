@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/3boxpizza/static/css/main.2cce8147.chunk.css",
+    "main.js": "/3boxpizza/static/js/main.2997d17e.chunk.js",
+    "main.js.map": "/3boxpizza/static/js/main.2997d17e.chunk.js.map",
+    "runtime~main.js": "/3boxpizza/static/js/runtime~main.f822c543.js",
+    "runtime~main.js.map": "/3boxpizza/static/js/runtime~main.f822c543.js.map",
+    "static/js/2.b41502e9.chunk.js": "/3boxpizza/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/3boxpizza/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/3boxpizza/index.html",
+    "precache-manifest.6ca2e857956c77a147f5c3b21e572702.js": "/3boxpizza/precache-manifest.6ca2e857956c77a147f5c3b21e572702.js",
+    "service-worker.js": "/3boxpizza/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/3boxpizza/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/3boxpizza/static/media/logo.5d5d9eef.svg"
+  }
+}
