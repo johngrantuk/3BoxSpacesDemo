@@ -2,10 +2,10 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import Pizza from './Pizza2';
+import SettingsDemo from './SettingsDemo';
 import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(<Pizza />, document.getElementById('root'));
+ReactDOM.render(<SettingsDemo />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.

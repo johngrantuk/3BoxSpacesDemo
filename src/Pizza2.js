@@ -14,13 +14,17 @@ class App extends React.Component {
   async componentDidMount() {
     const profile = await Box.getProfile('0xf8b908e7DBb3a0f2581aa8F1962f9360e10DC059');
     console.log(profile);
+
+    const spaceList = await Box.listSpaces('0xf8b908e7DBb3a0f2581aa8F1962f9360e10DC059');
+    console.log(spaceList);
+
+    const spaceData = await Box.getSpace('0xf8b908e7DBb3a0f2581aa8F1962f9360e10DC059', 'TestSpace')
+    console.log(spaceData)    // { PublicTestSpaceData: "LaddyDaaaa" }
   }
 
   componentWillUnmount() {
 
   }
-
-
 
   render(){
 
