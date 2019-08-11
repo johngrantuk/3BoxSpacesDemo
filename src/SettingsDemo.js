@@ -10,7 +10,7 @@ class App extends React.Component {
       heading: '3Box Spaces #BuildBetter',
       backgroundColor: '',                                                      // Default values to display when no 3Box user settings loaded
       fontSize:'20px',
-      text: 'Do You Could Control Your Own Data??',
+      text: 'Do You Control Your Own Data??',
       fontFamily: 'courier',
       ethAddress: '0x531b92991c4EC8Bb18E39E6180aa2350e434C42D',
       spacePublicData: [],
